@@ -5,3 +5,4 @@ Representa las diferentes sintaxis que existen de crear comentarios
 en el lenguaje (en una línea, varias...).
 */
 
+let user = asiercro
