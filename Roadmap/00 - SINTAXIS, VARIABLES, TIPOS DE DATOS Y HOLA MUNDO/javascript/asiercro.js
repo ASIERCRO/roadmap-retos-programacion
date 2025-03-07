@@ -1,3 +1,7 @@
+// https://developer.mozilla.org/es/docs/Web/JavaScript
+
 /*
-https://developer.mozilla.org/es/docs/Web/JavaScript
-jeje */
+Representa las diferentes sintaxis que existen de crear comentarios
+en el lenguaje (en una línea, varias...).
+*/
+
