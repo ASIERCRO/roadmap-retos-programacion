@@ -1,1 +1,2 @@
-https://developer.mozilla.org/es/docs/Web/JavaScript
+/* https://developer.mozilla.org/es/docs/Web/JavaScript
+jeje*/
