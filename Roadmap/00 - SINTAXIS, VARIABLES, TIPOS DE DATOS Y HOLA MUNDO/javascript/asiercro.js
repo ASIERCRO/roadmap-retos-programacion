@@ -8,4 +8,4 @@ en el lenguaje (en una línea, varias...).
 let user = "asiercro"
 const lenguaje = "js"
 
-console.log
+console.log(¡Hola, Javascript!)
